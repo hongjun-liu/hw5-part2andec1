@@ -1,5 +1,5 @@
 import unittest
-import hw5_cards_ec
+import hw5_cards_ec1
 
 class TestHand(unittest.TestCase):
 
